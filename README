@@ -1,0 +1,4 @@
+Runs command specified in string str
+
+compile
+>C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /out:C:\Users\<username>\Desktop\exec.exe C:\Users\<username>\Desktop\Executecommand.cs
